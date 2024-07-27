@@ -35,7 +35,7 @@ custom_domain = true
 pattern = "edu.udemy.com.sg3.daneshswara.cloud"
 custom_domain = true
 [[routes]]
-pattern = "app.midtrans.com.sg3.daneshswara.cloud"
+pattern = "zoomcares.zoom.us.sg3.daneshswara.cloud"
 custom_domain = true
 
 [vars]
