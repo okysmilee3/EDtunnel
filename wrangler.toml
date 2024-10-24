@@ -29,7 +29,7 @@ custom_domain = true
 pattern = "devsupport.zoom.us.sg3.daneshswara.cloud"
 custom_domain = true
 [[routes]]
-pattern = "bimbel.ruangguru.com.sg3.daneshswara.cloud"
+pattern = "gw.ruangguru.com.sg3.daneshswara.cloud"
 custom_domain = true
 [[routes]]
 pattern = "edu.udemy.com.sg3.daneshswara.cloud"
